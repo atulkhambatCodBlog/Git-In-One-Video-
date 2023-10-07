@@ -9,3 +9,12 @@ git add file name
 git commit "then enter in vim editor"
 press i to write
 for exit esc ;wq
+git add -A "for all files add"
+git commit -m "Added more htmls" (for multiple file commit or without using VIM editor)
+git checkout filename (for match with previous one)
+git checkout -f (for all file)
+git log 
+git log -p -1
+clear
+git diff (give info about working and stagging area)
+git  diff --staged (stagging area last commit compare)
