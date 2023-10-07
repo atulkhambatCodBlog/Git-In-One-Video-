@@ -1,0 +1,11 @@
+ls
+code .
+git init  "initialize git"
+ls-lart   "show hiddin file or git"
+git config --global user.name yourname
+git config --global user.email youremail
+git status
+git add file name
+git commit "then enter in vim editor"
+press i to write
+for exit esc ;wq
