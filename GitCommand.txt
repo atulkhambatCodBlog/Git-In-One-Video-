@@ -21,3 +21,4 @@ git  diff --staged (stagging area last commit compare)
 git commit -a -m "skipped staging area and fixed <"
 git rm
 git rm --cached file name
+git status -s(s here stands for file on staging area )
